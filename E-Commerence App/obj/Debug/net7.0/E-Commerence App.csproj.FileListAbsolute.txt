@@ -1,0 +1,31 @@
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\appsettings.Development.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\appsettings.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.staticwebassets.runtime.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.exe
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.deps.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.runtimeconfig.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.dll
+E:\CODE REPOS\E-Commerence App\E-Commerence App\bin\Debug\net7.0\E-Commerence App.pdb
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.csproj.AssemblyReference.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.AssemblyInfoInputs.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.AssemblyInfo.cs
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.csproj.CoreCompileInputs.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.MvcApplicationPartsAssemblyInfo.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.RazorAssemblyInfo.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.RazorAssemblyInfo.cs
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerence App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerence App.props
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerence App.props
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerence App.props
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets.pack.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets.build.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\staticwebassets.development.json
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\scopedcss\bundle\E-Commerence App.styles.css
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerence App.bundle.scp.css
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.dll
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\refint\E-Commerence App.dll
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.pdb
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\E-Commerence App.genruntimeconfig.cache
+E:\CODE REPOS\E-Commerence App\E-Commerence App\obj\Debug\net7.0\ref\E-Commerence App.dll

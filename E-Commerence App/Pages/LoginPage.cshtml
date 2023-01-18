@@ -1,0 +1,19 @@
+﻿@page
+@model E_Commerence_App.Pages.LoginPageModel
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<div style="margin-left:auto;margin-right:auto">
+    <form method="post">
+        <h3>Enter Login Credentials</h3>
+        <input asp-for="@Model.Credentials.UserName" placeholder="Enter Username" />
+        <br />
+        <br />
+        <input asp-for="@Model.Credentials.Password" placeholder="Enter Password" />
+        <br />
+        <br />
+        <input type="submit" placeholder="Login" />
+    </form>
+</div>
+
